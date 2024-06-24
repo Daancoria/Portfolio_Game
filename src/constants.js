@@ -15,7 +15,7 @@ export const dialogueData = {
   
   bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it. Do you also have ideas slip into your mind at 2am?`,
   
-  resume: `This is my desk and on it is my resume. <a href="https://github.com/sicarius777/ResumeSolo.git" target="_blank">Check it out?</a>
+  resume: `This is my desk and on it is my resume. <a href="https://github.com/sicarius777/ResumeSolo/blob/main/Resume_R.pdf" target="_blank">Check it out?</a>
   Contact me at rasmussen.rhett@mail.com if you have any interesting job opportunities!`,
   
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
