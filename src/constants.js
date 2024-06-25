@@ -4,9 +4,11 @@ export const dialogueData = {
   pc: `This is my PC. I work mostly in JavaScript/TypeScript these days.
     I've made a couple of games in that language. I also like HTML and Python. Anyway regardless of the language, I just like programming.
     Here is my <a href="https://https://github.com/sicarius777" target="_blank">Github</a>!`,
-  "CT Certificate": `This is my Certificate. I hung it on the wall because I'm proud of it. It was a very theoretical certificate but I think it gave me a good foundation.`,
+
+  "cs-degree": `This is my Certification. I hung it on the wall because I'm proud of it. It was a very comprehensive program I think it gave me a good foundation.`,
+  
   "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
-  I also make game programming tutorials on YouTube. Go sub to <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the content)
+  I also make videos on YouTube of me coding. Go sub to <a href="https://www.youtube.com/channel/UC9OGh0Q61FXp_EV3oVoptcQ" target="_blank">my channel</a>! (If you like the content)
   You'll learn how I built this portfolio you're currently playing through!`,
   
   tv: `That's my TV. I've been watching tech youtubers a lot recently like :
