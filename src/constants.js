@@ -3,7 +3,7 @@ export const scaleFactor = 4;
 export const dialogueData = {
   pc: `This is my PC. I work mostly in JavaScript/TypeScript these days.
     I made this  game in that language. I also like HTML and Python. Anyway regardless of the language, I just like programming.
-    Here is my <a href="https://https://github.com/sicarius777" target="_blank">Github</a>!`,
+    Here is my <a href="https://github.com/sicarius777" target="_blank">Github</a>!`,
 
   "cs-degree": `This is my Certification. I hung it on the wall because I'm proud of it. It was a very comprehensive program I think it gave me a good foundation. <a href="https://www.credly.com/badges/0e492264-2af8-46f8-ad1f-b1ca527d15b4/public_url" target="_blank">Link</a>`,
   
