@@ -11,7 +11,7 @@ export const dialogueData = {
   
   "sofa-table": `That's my sofa. I like to relax here and binge eat while scrolling or just taking a power nap.`,
 
-  tv: `That's my TV. I've been watching a lot of Netflix and Hulu lately. I love watching shows like "South Park" and "Bordertown".:
+  tv: `That's my TV. I've been watching a lot of Netflix and Hulu lately. I love watching shows like "South Park" and "Bordertown".
   I also enjoy video games, especially RPGs. I love playing Pokemon and I have most of the games.`,
   
   bed: `This where I sleep. Don't mind the mess, I just woke up!`,
