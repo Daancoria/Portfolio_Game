@@ -1,30 +1,30 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  pc: `This is my PC. I work mostly in JavaScript/TypeScript these days.
-    I made this  game in that language. I also like HTML and Python. Anyway regardless of the language, I just like programming.
-    Here is my <a href="https://github.com/sicarius777?tab=repositories" target="_blank">Github</a>!`,
+  pc: `This is my development setup. I specialize in frontend development and regularly build projects using React, Firebase, and other modern web technologies. I’m also passionate about game development with Python and Pygame, and my portfolio includes multiplayer games, educational simulations, and interactive applications.
+  In addition to my work as a developer, I have a background in professional translation and interpretation across English, Spanish, French, and Italian. This linguistic expertise has been especially valuable in projects involving localization, accessibility, and education.
+Whether I’m working on code, content, or communication—I enjoy solving complex problems and creating engaging, user-focused experiences.  
+You can explore some of my work on <a href="https://github.com/Daancoria" target="_blank">GitHub</a>.`,
 
-  "cs-degree": `This is my Certification. I hung it on the wall because I'm proud of it. It was a very comprehensive program I think it gave me a good foundation. <a href="https://www.credly.com/badges/0e492264-2af8-46f8-ad1f-b1ca527d15b4/public_url" target="_blank">Link</a>`,
+  "cs-degree": `This is my Coding Temple certification, and I’m proud to have it up on the wall. The program was immersive and project-driven, giving me a strong foundation in full-stack development. It’s where I honed my skills and built the groundwork for the projects I’m working on today.
+  <a href="https://www.comingsoon.com" target="_blank">Link</a>`,
   
-  "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
-  I also make videos on YouTube of me coding. Go sub to <a href="https://www.youtube.com/channel/UC9OGh0Q61FXp_EV3oVoptcQ" target="_blank">my channel</a>! (If you like the content)
-  You'll learn how I built this portfolio you're currently playing through!`,
+  "sofa-table": `That's my sofa. I like to relax here and binge eat while scrolling or just taking a power nap.`,
+
+  tv: `That's my TV. I've been watching a lot of Netflix and Hulu lately. I love watching shows like "South Park" and "Bordertown".:
+  I also enjoy video games, especially RPGs. I love playing Pokémon and I have every game up to date.`,
   
-  tv: `That's my TV. I've been watching tech youtubers a lot recently like :
-   <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
-  <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> (sometimes) and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
+  bed: `This where I sleep. Don't mind the mess, I just woke up!`,
   
-  bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it. Do you also have ideas slip into your mind at 2am?`,
-  
-  resume: `This is my desk and on it is my resume. <a href="https://github.com/sicarius777/ResumeSolo/blob/main/Resume_R.pdf" target="_blank">Check it out?</a>
-  Contact me at rasmussen.rhett@mail.com if you have any interesting job opportunities!`,
+  resume: `This is my desk and on it is my resume. <a href="https://github.com/Daancoria/resume/blob/main/TResume.pdf" target="_blank">Check it out?</a>
+  Contact me at daancoria@mail.com or on my LinkedIn <a href="https://www.linkedin.com/in/daniel-anievas-coria-18a613354/" target="_blank">here</a> if you have any interesting job opportunities!`,
   
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-  Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas.`,
+  Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas.
+  I have more games and projects on my personal website <a href=http://daancoria.github.io/ target="_blank">here</a>.`,
   
-  library: `There are a wide variety of books from finance to fiction, I personally love good fictional novels, Brandon Sanderson, & Nicolus Eames are two of
-  my favorites, I also own many rare titles such as A Red & Pleasent Land`,
+  library: `There are a wide variety of books from novels to fiction, I personally love sci-fi novels, mythology, & anything from fantasy to horror.
+  I also own many collections that I have never read, and I plan to read them all someday. Hopefully`,
   
   exit: `If you want to exit my cabin portfolio, just close the tab.`,
 };
