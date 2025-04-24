@@ -1,4 +1,7 @@
+import { translations, getLanguage } from "./lang.js";
+
 export function displayDialogue(text, onDisplayEnd) {
+    const dialogueText = translations[getLanguage()].dialogue[key];
     const dialogueUI = document.getElementById("textbox-container");
     const dialogue = document.getElementById("dialogue");
   

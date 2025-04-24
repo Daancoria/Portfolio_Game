@@ -71,8 +71,26 @@
         flex-direction: column;
         color: rgb(255, 0, 0);
       }
+
+      #lang-selector {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        z-index: 1000;
+        font-size: 1rem;
+        font-family: monogram, monospace;
+        padding: 0.5rem;
+        border-radius: 5px;
+      }
     </style>
     <div id="app">
+      <select id="lang-selector">
+        <option value="en">🇺🇸 English</option>
+        <option value="es">🇪🇸 Español</option>
+        <option value="fr">🇫🇷 Français</option>
+        <option value="it">🇮🇹 Italiano</option>
+      </select>
+      
       <div>
         <p class="note">Tap/Click around to move</p>
 
