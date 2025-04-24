@@ -1,7 +1,7 @@
 import { scaleFactor } from "./constants";
 import { k } from "./kaboomCtx";
 import { displayDialogue, setCamScale } from "./utils";
-import { translations, setLanguage, getLanguage } from "./langs.js";
+import { translations, setLanguage, getLanguage } from "./lang.js";
 
 k.loadSprite("spritesheet", "./spritesheet.png", {
   sliceX: 39,
