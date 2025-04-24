@@ -1,4 +1,4 @@
-import { translations, getLanguage } from "./langs.js";
+import { translations, getLanguage } from "./lang.js";
 
 let activeKey = null;
 let intervalRef = null;
