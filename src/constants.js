@@ -3,8 +3,8 @@ export const scaleFactor = 4;
 export const dialogueData = {
   pc: `This is my development setup. I specialize in frontend development and regularly build projects using React, Firebase, and other modern web technologies. I’m also passionate about game development with Python and Pygame, and my portfolio includes multiplayer games, educational simulations, and interactive applications.
   In addition to my work as a developer, I have a background in professional translation and interpretation across English, Spanish, French, and Italian. This linguistic expertise has been especially valuable in projects involving localization, accessibility, and education.
-Whether I’m working on code, content, or communication—I enjoy solving complex problems and creating engaging, user-focused experiences.  
-You can explore some of my work on <a href="https://github.com/Daancoria" target="_blank">GitHub</a>.`,
+  Whether I’m working on code, content, or communication—I enjoy solving complex problems and creating engaging, user-focused experiences.  
+  You can explore some of my work on <a href="https://github.com/Daancoria" target="_blank">GitHub</a>.`,
 
   "cs-degree": `This is my Coding Temple certification, and I’m proud to have it up on the wall. The program was immersive and project-driven, giving me a strong foundation in full-stack development. It’s where I honed my skills and built the groundwork for the projects I’m working on today.
   <a href="https://www.comingsoon.com" target="_blank">Link</a>`,
