@@ -2,6 +2,7 @@ import { scaleFactor } from "./constants";
 import { k } from "./kaboomCtx";
 import { displayDialogue, setCamScale } from "./utils";
 import { translations, setLanguage, getLanguage } from "./lang.js";
+import { refreshDialogue } from "./utils";
 
 k.loadSprite("spritesheet", "./spritesheet.png", {
   sliceX: 39,
@@ -141,6 +142,9 @@ k.scene("main", async () => {
       localStorage.setItem("lang", lang);
       document.querySelector(".note").textContent = translations[lang].note;
       document.getElementById("close").textContent = translations[lang].close;
+    
+      // ✅ Refresh current dialogue if open
+      refreshDialogue();
     });
   }
 });
