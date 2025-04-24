@@ -5,6 +5,7 @@
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Cabin Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
   </head>
   <body>
     <style>
@@ -24,7 +25,13 @@
         height: 100%;
         position: relative;
       }
-
+      
+      #textbox,
+      .note,
+      .ui-close-btn {
+        font-family: "VT323", monospace;
+      }
+      
       #textbox {
         position: absolute;
         left: 10%;
@@ -83,6 +90,7 @@
         border-radius: 5px;
       }
     </style>
+
     <div id="app">
       <select id="lang-selector">
         <option value="en">🇺🇸 English</option>
@@ -90,7 +98,7 @@
         <option value="fr">🇫🇷 Français</option>
         <option value="it">🇮🇹 Italiano</option>
       </select>
-      
+
       <div>
         <p class="note">Tap/Click around to move</p>
 
