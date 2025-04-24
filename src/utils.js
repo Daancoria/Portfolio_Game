@@ -29,14 +29,14 @@ export function displayDialogue(key, onDisplayEnd) {
   }, 1);
 
   function onCloseBtnClick() {
-    onDisplayCallback();
+    if (onCloseCallback) onCloseCallback();
     dialogueUI.style.display = "none";
     dialogue.innerHTML = "";
     clearInterval(intervalRef);
     closeBtn.removeEventListener("click", onCloseBtnClick);
     removeEventListener("keypress", onKeyPress);
     activeKey = null;
-  }
+  }  
 
   function onKeyPress(event) {
     if (event.code === "Enter") {
