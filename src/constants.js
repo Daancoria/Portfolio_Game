@@ -9,8 +9,7 @@ export const dialogueData = {
   You can explore some of my work on <a href="https://github.com/Daancoria" target="_blank">GitHub</a>.`,
 
   "cs-degree": `These are my Coding Temple certifications, and I’m proud to have them up on the wall. The program was immersive and project-driven, giving me a strong foundation in full-stack development. It’s where I honed my skills and built the groundwork for the projects I’m working on today.
-  <a href="https://www.credential.net/8daf600a-4c18-480d-9c90-5f8d33fb1675" target="_blank">Link for Certificate of Completion</a>,
-  <a href="https://www.credential.net/8daf600a-4c18-480d-9c90-5f8d33fb1675" target="_blank">Link for Frontend Specialist Badge</a>`,
+  <a href="https://www.credential.net/8daf600a-4c18-480d-9c90-5f8d33fb1675" target="_blank">Link for Certificate of Completion</a>,`,
   
   "sofa-table": `That's my sofa. I like to relax here and read on my Kindle or take a power nap.`,
 
@@ -29,5 +28,5 @@ export const dialogueData = {
   library: `There are a wide variety of books from novels to fiction, I love sci-fi novels, mythology, & anything from fantasy to horror.
   I also own many collections that I have never read, and I plan to read them all someday. Hopefully`,
   
-  exit: `If you want to exit my cabin portfolio, just close the tab.`,
+  exit: `If you want to exit my cabin portfolio, just close the tab..`,
 };
